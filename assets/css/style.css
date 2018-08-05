@@ -1,0 +1,67 @@
+body {
+    background-image: url(../images/6169822-plain-white-wallpaper.jpg);
+    text-align: center;
+    font-family: 'Exo', sans-serif;
+
+}
+
+
+
+.titleOfGame {
+    color: gold;
+    font-weight: bold;
+    font-size: 100px;
+
+}
+
+.instructions {
+    font-size: 25px;
+    text-align: center;
+    padding: 30px
+
+}
+
+.loose {
+    color: red
+}
+
+.win{
+    color: green;
+}
+
+.targetNumber {
+    padding: 20px;
+    
+    font-size: 45px;
+    width: 50%;
+    margin: 0 auto;
+    
+
+}
+
+.winsAndLosses {
+    padding:20px;
+    margin: 0 auto;
+    font-size: 40px;
+    border: 10px;
+    border-top-style: dotted;
+   
+    border-bottom-style: dotted;
+
+
+
+}
+.gems {
+    border-style: groove;
+    padding: 20px;
+    
+
+    margin: 0 auto;
+
+}
+
+.currentScore {
+    padding:20px;
+    margin: 0 auto;
+    font-size: 60px;
+}
